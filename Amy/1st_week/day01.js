@@ -14,8 +14,8 @@ function whyNot(order) {
   let totalPrice = 0;
 
   for (let i = 0; i < order.length; i++) {
-    if (order[i].includes("cafelatte")) totalPrice = +5000;
-    else totalPrice = +4500;
+    if (order[i].includes("cafelatte")) totalPrice = totalPrice + 5000;
+    else totalPrice = totalPrice + 4500;
   }
 
   return totalPrice;
