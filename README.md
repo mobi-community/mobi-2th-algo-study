@@ -56,7 +56,7 @@ programmers : lv 0.  <br />
 정답률이 낮은 것부터 높은 것까지 랜덤하게 재미있어 보이는 주제로 가져왔어요 <br />
 
 <br />
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181837" > 커피심부름 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" > 안전지대 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120871" > 저주의 숫자 < a/>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181837" > 커피심부름 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120866" > 안전지대 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120871" > 저주의 숫자 </ a>
 
 <br />
 
