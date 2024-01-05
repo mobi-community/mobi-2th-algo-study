@@ -23,7 +23,7 @@
 <br />
 프로그래머스 👉 https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=0 <br />
 
-#### commit convention
+#### 💬 commit convention
 
 <table>
   <tr>
@@ -32,12 +32,12 @@
   </tr>
 </table>
 
-#### folder convention
+#### 🗂️ folder convention
 
 <table>
   <tr>
     <td>폴더 구조 </td>
-    <td> </td>
+    <td> [nickName] / [nth_week] / day00.js </td>
   </tr>
 </table>
 
