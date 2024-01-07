@@ -61,3 +61,32 @@ programmers : lv 0.  <br />
 <br />
 
 ---
+
+
+### 2nd week 
+###### range | 2024.01.08 ~ 2024.01.13
+
+programmers : lv 0.  <br />
+<br />
+첫번째 주차 문제 풀이 결과 정답률 70%까지는 무난하게 풀이가 가능했으므로 금주는 정답률 70% 즈음의 문제들로 구성 <br />
+
+<br />
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120884" > 치킨 쿠폰 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181851" > 전국 대회 선발 고사 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120869" > 외계어 사전 </ a>
+
+<br />
+
+---
+
+### 0-- week 
+###### range | 2024.01.00 ~ 2024.01.00
+
+programmers : lv 0.  <br />
+<br />
+문제 선정 기준 <br />
+
+<br />
+<a href="" > 문제1 </a> | <a href="" > 문제2 </a> | <a href="" > 문제3 </ a>
+
+<br />
+
+---
