@@ -1,5 +1,5 @@
 /*
-    문제 2. 치킨 쿠폰
+    문제 1. 치킨 쿠폰
 */
 
 function solution(chicken) {
