@@ -1,8 +1,6 @@
 function solution(spell, dic) {
-    answer = 0;
     spell = spell.sort().join("")
     return dic.map(word => word.split("").sort().join("")).find(word => word===spell) ? 1 : 2
-
 } 
 
 
