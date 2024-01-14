@@ -77,6 +77,24 @@ programmers : lv 0.  <br />
 
 ---
 
+### 3 week 
+###### range | 2024.01.15 ~ 2024.01.20
+
+programmers : lv 0.  <br />
+<br />
+각자 풀어보고 싶은 문제, 재미있어 보이는 거 선정하기 <br />
+
+<br />
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919" > 서울에서 김서방 찾기 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120892" > 암호해독 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120894" > 영어가 싫어요 </ a>
+
+<br />
+
+---
+
+<br />
+
+---
+
 ### 0-- week 
 ###### range | 2024.01.00 ~ 2024.01.00
 
@@ -85,7 +103,7 @@ programmers : lv 0.  <br />
 문제 선정 기준 <br />
 
 <br />
-<a href="" > 문제1 </a> | <a href="" > 문제2 </a> | <a href="" > 문제3 </ a>
+<a href="" > 1 </a> | <a href="" > 2 </a> | <a href="" > 3 </ a>
 
 <br />
 
