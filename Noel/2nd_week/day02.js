@@ -10,18 +10,13 @@ function solution(rank, attendance) {
 
   for (let i = 0; i < rank.length; i++) {
     if (attendance[i]) {
-      topStudentArr.push({
-        num: i,
-        rank: rank[i],
-      });
+      topStudentArr.push(rank[i]);
     }
   }
 
-  topStudentArr.sort((a, b) => a.rank - b.rank);
+  topStudentArr.sort((a, b) => a - b);
 
-  return (
-    10000 * topStudentArr[0].num +
-    100 * topStudentArr[1].num +
-    topStudentArr[2].num
-  );
+  let answer =
+    10000 * topStudentArr[0] + 100 * topStudentArr[1] + topStudentArr[2];
+  return answer;
 }
