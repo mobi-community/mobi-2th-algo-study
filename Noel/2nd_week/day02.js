@@ -20,3 +20,4 @@ function solution(rank, attendance) {
     10000 * topStudentArr[0] + 100 * topStudentArr[1] + topStudentArr[2];
   return answer;
 }
+
