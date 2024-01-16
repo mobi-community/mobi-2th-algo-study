@@ -80,7 +80,7 @@ programmers : lv 0.  <br />
 ### 3 week 
 ###### range | 2024.01.15 ~ 2024.01.20
 
-programmers : lv 0.  <br />
+programmers : lv 0. ~ lv.01  <br />
 <br />
 각자 풀어보고 싶은 문제, 재미있어 보이는 거 선정하기 <br />
 
@@ -90,6 +90,18 @@ programmers : lv 0.  <br />
 <br />
 
 ---
+
+<br />
+
+### 0-- week 
+###### range | 2024.01.00 ~ 2024.01.00
+
+programmers : lv 0.  <br />
+<br />
+문제 선정 기준 <br />
+
+<br />
+<a href="" > 1 </a> | <a href="" > 2 </a> | <a href="" > 3 </ a>
 
 <br />
 
