@@ -93,6 +93,20 @@ programmers : lv 0. ~ lv.01  <br />
 
 <br />
 
+### 4 week 
+###### range | 2024.01.22 ~ 2024.01.27
+
+programmers : lv 0. ~ lv.01  <br />
+<br />
+0에서 정답률 낮은 문제 혹은 1에서 정답률 높은 문제 중 재밌어 보이는 문제 <br />
+
+<br />
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181870" > ad제거하기 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120883" > 로그인 성공 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943" > 콜라츠 추측 </ a>
+
+<br />
+
+---
+
 ### 0-- week 
 ###### range | 2024.01.00 ~ 2024.01.00
 
@@ -102,6 +116,10 @@ programmers : lv 0.  <br />
 
 <br />
 <a href="" > 1 </a> | <a href="" > 2 </a> | <a href="" > 3 </ a>
+
+<br />
+
+---
 
 <br />
 
