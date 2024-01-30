@@ -107,6 +107,21 @@ programmers : lv 0. ~ lv.01  <br />
 
 ---
 
+### 5 week 
+###### range | 2024.01.29 ~ 2024.02.04
+
+programmers : lv 0.  <br />
+<br />
+문제 선정 기준 <br />
+
+<br />
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/120922" > 종이 자르기 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576" > 완주하지 못한 선수 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922" > 수박수박수박수박수박수? </ a>
+
+
+<br />
+
+---
+
 ### 0-- week 
 ###### range | 2024.01.00 ~ 2024.01.00
 
