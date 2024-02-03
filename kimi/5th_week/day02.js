@@ -1,8 +1,8 @@
 function solution(participant, completion) {
     let fail = '';
-    
+
     let player = new Map();
-    
+
     for (let p of participant) {
         // 해당 참가자 있는가?
         player.set(p, player.get(p) + 1 || 1);
@@ -11,17 +11,17 @@ function solution(participant, completion) {
 
     for (let c of completion) {
         // eden, kiki
-        if(player.get(c) === 1) {
+        if (player.get(c) === 1) {
             player.delete(c);
         } else {
-            player.set(c, player.get(c) -1);
+            player.set(c, player.get(c) - 1);
         }
     }
-    
-   for (let [key, value] of player) {
+
+    for (let [key, value] of player) {
         fail = key;
     }
-    return fail
+    return fail;
 }
 
 /*
@@ -40,3 +40,16 @@ new Map()
 Map 객체는 객체와는 다르게 키나 값에 어떠한 자료형도 사용순서가 보장
 요소들이 삽입된 순서대로 반복
 */
+
+/* 좋은 답변
+function solution(participant, completion) {
+    // 가공된 obj를 통으로 리턴하는겁니다. 그래야 누산된 accumulator 가 obj가 되니까요
+    var dic = completion.reduce((obj, t)=> (obj[t]= obj[t] ? obj[t]+1 : 1 , obj) ,{});
+    return participant.find(t=> {
+        if(dic[t])
+            dic[t] = dic[t]-1;
+        else 
+            return true;
+    });
+}
+ */
