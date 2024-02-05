@@ -110,7 +110,7 @@ programmers : lv 0. ~ lv.01  <br />
 ### 5 week 
 ###### range | 2024.01.29 ~ 2024.02.04
 
-programmers : lv 0.  <br />
+programmers : lv 0. ~ lv.01  <br />
 <br />
 문제 선정 기준 <br />
 
@@ -123,9 +123,9 @@ programmers : lv 0.  <br />
 ---
 
 ### 6 week 
-###### range | 2024.01.00 ~ 2024.01.00
+###### range | 2024.02.05 ~ 2024.02.10
 
-programmers : lv 0.  <br />
+programmers : lv 0. ~ lv.01  <br />
 <br />
 문제 선정 기준 <br />
 
@@ -136,8 +136,26 @@ programmers : lv 0.  <br />
 
 ---
 
-### 0-- week 
-###### range | 2024.01.00 ~ 2024.01.00
+### 00 week 
+###### range | 2024.00.00 ~ 2024.00.00
+
+programmers : lv 0.  <br />
+<br />
+문제 선정 기준 <br />
+
+<br />
+<a href="" > 1 </a> | <a href="" > 2 </a> | <a href="" > 3 </ a>
+
+<br />
+
+---
+
+<br />
+
+---
+
+### 00 week 
+###### range | 2024.00.00 ~ 2024.00.00
 
 programmers : lv 0.  <br />
 <br />
