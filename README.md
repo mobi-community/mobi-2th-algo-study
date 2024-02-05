@@ -122,7 +122,7 @@ programmers : lv 0.  <br />
 
 ---
 
-### 0-- week 
+### 6 week 
 ###### range | 2024.01.00 ~ 2024.01.00
 
 programmers : lv 0.  <br />
@@ -130,7 +130,7 @@ programmers : lv 0.  <br />
 문제 선정 기준 <br />
 
 <br />
-<a href="" > 1 </a> | <a href="" > 2 </a> | <a href="" > 3 </ a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/181897" > 리스트 자르기 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181890" > 왼쪽 오른쪽 </a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/136798" > 기사단원의 무기 </ a>
 
 <br />
 
