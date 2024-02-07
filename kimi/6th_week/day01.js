@@ -36,4 +36,3 @@ function solution(arr) {
     return arr.join("")
 }
 
-// 시간 남아서 문제 3
